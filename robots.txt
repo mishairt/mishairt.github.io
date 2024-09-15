@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mishairt.github.io/sitemap.html.gz
+Sitemap: https://mishairt.github.io/app/sitemap.html.gz
+Sitemap: https://mishairt.github.io/assets/sitemap.html.gz
+Sitemap: https://mishairt.github.io/css/sitemap.html.gz
+Sitemap: https://mishairt.github.io/includes/sitemap.html.gz
+Sitemap: https://mishairt.github.io/item/sitemap.html.gz
+Sitemap: https://mishairt.github.io/src/sitemap.html.gz
